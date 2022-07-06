@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @berattozgul
 - 👀 I’m interested in Backend and Cyber Security
 - 🌱 I’m currently learning Python and Cyber Security
-- 💞️ I’m looking to collaborate on internship.
 - 📫 You can reach me by e-mail. beratozgull44@outlook.com
 
 <!---
