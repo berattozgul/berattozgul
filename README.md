@@ -15,10 +15,12 @@
    <img src="https://github-profile-trophy.vercel.app/?username=berattozgul" alt="berattozgul" />
    </a> 
 </p>
-- 🔭 I’m currently working on [Transfer Market Site](https://github.com/berattozgul/transfermarktsite)
-- 🌱 I’m currently learning **Python, Cyber Security, Kotlin, Android Programming**
-- 📫 How to reach me **beratozgull44@outlook.com**
-- ⚡ Fun fact **I can't code without music**
+<ul>
+   <li>🔭 I’m currently working on <a href="https://github.com/berattozgul/transfermarktsite">Transfer Market Site</a></li>
+   <li>🌱 I’m currently learning <i><b>Python, Cyber Security, Kotlin, Android Programming</b></i></li>
+   <li>📫 How to reach me <i><b>beratozgull44@outlook.com</b></i></li>
+   <li>⚡ Fun fact <i><b>I can't code without music</b></i></li>
+</ul>
 <h3 align="left">
    Connect with me:
 </h3>
