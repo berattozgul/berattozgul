@@ -16,10 +16,8 @@
    </a> 
 </p>
 <ul>
-   <li>🔭 I’m currently working on <a href="https://github.com/berattozgul/transfermarktsite">Transfer Market Site</a></li>
    <li>🌱 I’m currently learning <i><b>Python, Cyber Security, Kotlin, Android Programming</b></i></li>
    <li>📫 How to reach me <i><b>beratozgull44@outlook.com</b></i></li>
-   <li>⚡ Fun fact <i><b>I can't code without music</b></i></li>
 </ul>
 <h3 align="left">
    Connect with me:
